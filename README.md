@@ -5,6 +5,6 @@ This is just a lamp project for using in Docker
 
 How to start:
 
-```dockerfile
+```
 docker-compose up -d
 ```
