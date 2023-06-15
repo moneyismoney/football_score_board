@@ -1,3 +1,4 @@
 # IDE setting
 ## PhpStorm
 .idea
+/docker/volume/mysql

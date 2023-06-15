@@ -1,4 +1,4 @@
-This is just a lamp project for using in Docker 
+This is just a lemp project for using in Docker 
 - PHP 
 - Nginx
 - MySQL
@@ -6,5 +6,12 @@ This is just a lamp project for using in Docker
 How to start:
 
 ```
+docker-compose build
 docker-compose up -d
+```
+
+### Useful commands
+Login into [mysql] container
+```
+docker-compose exec mysql bash
 ```
